@@ -4,5 +4,16 @@
   "artist": "Yusuke Nomura",
   "author": "Muneyuki Kaneshiro",
   "cover": "https://www.google.com/books/edition/Blue_Lock_1/MFQfEAAAQBAJ?hl=en&gbpv=1&printsec=frontcover",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1743882428",
+      "groups": {
+        "Chapter 1": [
+          "https://w13.blue-lock-manga.com/manga/blue-lock-chapter-1/"
+        ]
+      }
+    }
+  }
 }
